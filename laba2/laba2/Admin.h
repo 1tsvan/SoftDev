@@ -1,3 +1,5 @@
+//Приходит бабка в европесйкий магазин и говорит дай манки
+
 #pragma once
 #include "iostream"
 #include "DefaultOperations.h"
