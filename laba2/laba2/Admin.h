@@ -16,5 +16,8 @@ protected:
 	void BAN();
 	void seachUsersOnSite();
 	void editRole();
+
+public:
+	void newMethod();
 };
 
